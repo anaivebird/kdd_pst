@@ -39,7 +39,7 @@ export PYTHONPATH="`pwd`:$PYTHONPATH"
 python bert.py  # output at out/kddcup/scibert/
 ```
 
-## Results on Valiation Set
+## Results on Test Set
 
 |  Method  | MAP   |
 |-------|-------|
