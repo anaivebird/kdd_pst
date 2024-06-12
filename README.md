@@ -37,7 +37,19 @@ export PYTHONPATH="`pwd`:$PYTHONPATH"
 
 # Method I Used: SciBERT
 python bert.py  # output at out/kddcup/scibert/
+
+# Predict on Test
+python run_test.py
+
+https://drive.google.com/file/d/1ZHDV4BONcMFPzbjIjnnRCg456Rpod2rs/view?usp=sharing
+
+下载后放到：本项目目录/out/kddcup/scibert_old_best/pytorch_model.bin
 ```
+## best checkpoint download
+
+https://drive.google.com/file/d/1ZHDV4BONcMFPzbjIjnnRCg456Rpod2rs/view?usp=sharing
+
+下载后放到：本项目目录/out/kddcup/scibert_old_best/pytorch_model.bin
 
 ## Results on Test Set
 
